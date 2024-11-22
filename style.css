@@ -1,0 +1,103 @@
+.div-2{
+    display: flex;
+    background-color:rgb(33, 33, 33);
+    height: 80px;
+    width: 100%;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.fa-brands{
+    color: rgb(187, 191, 194);
+    font-size: 35px;
+    margin-top: 25px;
+    margin-left: 70px;
+}
+.fa-square-twitter{
+    color: rgb(187, 191, 194);
+    font-size: 35px;
+    margin-top: 25px;
+    margin-left: 18px;
+}
+.fa-google-plus{
+    color: rgb(187, 191, 194);
+    font-size: 35px;
+    margin-top: 25px;
+    margin-left: 18px;
+}
+.fa-linkedin{
+    color: rgb(187, 191, 194);
+    font-size: 35px;
+    margin-top: 25px;
+    margin-left: 18px;
+}
+.fa-square-youtube{
+    color: rgb(187, 191, 194);
+    font-size: 35px;
+    margin-top: 25px;
+    margin-left: 18px;
+}
+.fa-duotone{
+    color: rgb(151, 193, 83);
+    font-size: 23px;
+    margin-top:27px;
+    margin-left: 500px;
+}
+.heading{
+    color: white;
+    margin-top: 25px;
+    margin-left: 10px;
+    font-size: 23px;
+}
+.fa-solid{
+    color: rgb(151, 193, 83);
+    font-size: 23px;
+    margin-top: 27px;
+    padding-left: 20px;
+}
+.heading1{
+    color: white;
+    margin-top:25px ;
+    margin-left: 10px;
+    font-size: 23px;
+
+}
+button{
+    background-color: rgb(173, 214, 98);
+    margin-top: 15px;
+    width: 160px;
+    height: 50px;
+    margin-left: 50px;
+    border: 1px solid rgb(173, 214, 98);
+    color: black;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+.div-3{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(255, 255, 255);
+    width: 100%;
+    border-bottom: 2px solid black;
+    padding-left:630px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 17;
+}
+li{
+    float: left;
+    color: black;
+    text-align: center;
+    display: block;
+    padding: 14px 16px;
+}
+li:hover{
+    border-bottom: 10px solid rgb(244, 192, 71);
+}
